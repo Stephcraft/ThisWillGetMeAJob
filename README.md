@@ -18,6 +18,7 @@ It also has many filters, statistics and rankings.
 - <img src=https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/3cfbcdaff9818c3e2c07d755d556fe1f34d7cf0d/black/svg/linkedin-square.svg width=18> LinkedIn
 - <img src=https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/3cfbcdaff9818c3e2c07d755d556fe1f34d7cf0d/black/svg/stack-overflow.svg width=18> Stackoverflow
 - <img src=https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/3cfbcdaff9818c3e2c07d755d556fe1f34d7cf0d/black/svg/angellist.svg width=18> AngelList
+- <img src=https://cdn.icon-icons.com/icons2/2389/PNG/512/indeed_logo_icon_145170.png width=18> Indeed
 
 ## Design
 ![image](https://user-images.githubusercontent.com/23728346/148632037-9c129025-633b-4f45-bd96-f10e8a2156a1.png)
