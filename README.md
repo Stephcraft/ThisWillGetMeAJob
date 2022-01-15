@@ -62,3 +62,29 @@ var result = await WebScrapping.scrape('https://awesome.url/page', 'cool_scrappe
 ```
 
 <img src=https://cdn.discordapp.com/attachments/581863115843567616/922333917376311386/Untitled_Diagram.drawio.svg>
+
+## Web scrapper utility v2
+Instead of relying on iframes which tend to cause many COORS errors and slowlyness. V2 utilises `fetch` instead.
+
+###### Content.js
+```js
+async function request(method, url, other) {
+    return await BackgroundTasks.execute('request', { method, url, other })
+}
+
+var html = await request('GET', 'https://awesome.url/page', { cache: 'force-cache' })
+var doc = HTML.toElement(`<document>${html}</document>`)
+// either simulate into an iframe or process the initial source code data...
+```
+
+###### Background.js
+```js
+function request(method, url, other) {
+    // request logic with fetch...
+}
+
+BackgroundTasks.addHandeler('request', async (params) => {
+    var { method, url, body, other } = params
+    return await request(method, url, other)
+})
+```
