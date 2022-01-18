@@ -21,7 +21,7 @@ It also has many filters, statistics and rankings.
 - <img src=https://cdn.icon-icons.com/icons2/2389/PNG/512/indeed_logo_icon_145170.png width=18> Indeed
 
 ## Design
-![image](https://user-images.githubusercontent.com/23728346/148632037-9c129025-633b-4f45-bd96-f10e8a2156a1.png)
+![image](https://cdn.discordapp.com/attachments/581863115843567616/932814886969430036/Job.drawio_1.svg)
 
 ## Job data
 These are data points collected for each job:
