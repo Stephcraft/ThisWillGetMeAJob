@@ -19,6 +19,7 @@ It also has many filters, statistics and rankings.
 - <img src=https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/3cfbcdaff9818c3e2c07d755d556fe1f34d7cf0d/black/svg/stack-overflow.svg width=18> Stackoverflow
 - <img src=https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/3cfbcdaff9818c3e2c07d755d556fe1f34d7cf0d/black/svg/angellist.svg width=18> AngelList
 - <img src=https://cdn.icon-icons.com/icons2/2389/PNG/512/indeed_logo_icon_145170.png width=18> Indeed
+- <img src=https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/3cfbcdaff9818c3e2c07d755d556fe1f34d7cf0d/black/svg/google.svg width=18> Google jobs search
 
 ### Supported autofill platforms
 - <img src=https://user-images.githubusercontent.com/23728346/150831428-9ffedc81-ee87-4899-8b15-a7f71930e2f3.svg width=16> MyWorkdayJobs
