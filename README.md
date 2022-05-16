@@ -1,5 +1,5 @@
 # This Will Get Me A Job
-*This code will provide me a summer internship in the United States.*
+*This code will provide me a ~~summer~~ winter internship in the United States.*
 
 It is a chrome extension that saves all the pertinent information from job postings to a google sheet. The google sheet acts as a tracking tool for all the applied jobs:
 - Applied
