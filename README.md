@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This extension has now been released  
+> https://chromewebstore.google.com/detail/codename-job/joidnlgoojilpfmnbdmcpgmfhgoocnnd
+
 # This Will Get Me A Job
 *This code will provide me a summer internship abroad.*
 
